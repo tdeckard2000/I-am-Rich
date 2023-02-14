@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  I am Rich
 //
-//  Created by Serina Mumford on 2/14/23.
+//  Created by Trent Deckard on 2/14/23.
 //
 
 import UIKit

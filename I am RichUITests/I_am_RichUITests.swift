@@ -2,7 +2,7 @@
 //  I_am_RichUITests.swift
 //  I am RichUITests
 //
-//  Created by Serina Mumford on 2/14/23.
+//  Created by Trent Deckard on 2/14/23.
 //
 
 import XCTest

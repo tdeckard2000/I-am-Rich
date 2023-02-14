@@ -2,7 +2,7 @@
 //  I_am_RichTests.swift
 //  I am RichTests
 //
-//  Created by Serina Mumford on 2/14/23.
+//  Created by Trent Deckard on 2/14/23.
 //
 
 import XCTest
